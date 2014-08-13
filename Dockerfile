@@ -1,8 +1,8 @@
 ############################################################
-# Supervisord server
+# Supervisord service
 ############################################################
 
-FROM trobz/ubuntu:12.04
+FROM  trobz/ubuntu:12.04
 
 MAINTAINER Michel Meyer <mmeyer@trobz.com>
 
